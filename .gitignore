@@ -1,0 +1,10 @@
+# Build output
+build/
+zip-test/
+
+# IDE and OS files
+.vs/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
